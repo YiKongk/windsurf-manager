@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+
+auth_output/
+.camoufox-pricing-queue/
+.chrome-windsurf-profile/
+
+.pytest_cache/
+*.log
